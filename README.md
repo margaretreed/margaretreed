@@ -1,8 +1,8 @@
-### 👋 Hi there, I'm Meg! 
-
-Currently completing Hackbright Academy's Full Stack Engineering Program. 
+### 👋 Hi there, I'm Meg!
 
 😄 Pronouns: she/her
+🔭 Currently completing Hackbright Academy's Full Stack Engineering Program. 
+
 
 <!--
 **margaretreed/margaretreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 -->
+
+### 💻 Top Languages! :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaretreed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Languages and Tools :
 <div>
@@ -36,13 +40,7 @@ Here are some ideas to get you started:
 
 </div>
 
-
 ### 💫 Let's Connect! :
 <div id="badges">
   <a href="https://www.linkedin.com/in/margaret-reed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
-
-### 💻 Top Languages! :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaretreed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
