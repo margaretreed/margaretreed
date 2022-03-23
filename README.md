@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Meg!
 
-😄 Pronouns: she/her
+😄 Pronouns: she/her <br>
 🔭 Currently completing Hackbright Academy's Full Stack Engineering Program. 
 
 
