@@ -2,6 +2,8 @@
 
 Currently completing Hackbright Academy's Full Stack Engineering Program. 
 
+😄 Pronouns: she/her
+
 <!--
 **margaretreed/margaretreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools :
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -35,7 +37,12 @@ Here are some ideas to get you started:
 </div>
 
 
-
+### 💫 Let's Connect! :
 <div id="badges">
   <a href="https://www.linkedin.com/in/margaret-reed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
 </div>
+
+### 💻 Top Languages! :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=margaretreed&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
