@@ -2,9 +2,8 @@
 
 😄 Pronouns: she/her <br>
 🔭 Currently completing Hackbright Academy's Full Stack Engineering Program. <br>
+🌱 Python, Javascript, HTML, CSS, SQL, jQuery, D3<br>
 📍 Located in the Bay Area<br>
-💻 Python, Javascript, HTML, CSS, SQL, jQuery, D3<br>
-
 
 <!--
 **margaretreed/margaretreed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
