@@ -1,9 +1,9 @@
 ### 👋 Hi there, I'm Meg!
 
 😄 Pronouns: she/her <br>
-🔭 Currently completing Hackbright Academy's Full Stack Engineering Program.
-📍 Located in the Bay Area
-💻 Python, Javascript, HTML, CSS, SQL, jQuery, D3
+🔭 Currently completing Hackbright Academy's Full Stack Engineering Program. <br>
+📍 Located in the Bay Area<br>
+💻 Python, Javascript, HTML, CSS, SQL, jQuery, D3<br>
 
 
 <!--
