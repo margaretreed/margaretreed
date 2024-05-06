@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Meg!
 
 😄 Pronouns: she/her<br>
-🔭 Completed Hackbright Academy's Full Stack Engineering Program.<br>
+🔭 Completed Hackbright Academy's Full Stack Engineering Program<br>
 🌱 Python, Javascript, HTML, CSS, SQL, jQuery, D3<br>
 📍 Located in the Bay Area<br>
 
